@@ -1,0 +1,20 @@
+{
+  "name": "playlistgenerator",
+  "version": "1.0.0",
+  "description": "Testing some algorithm to label music and create new playlists for the User",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanmalp3/MusicAlgorithm.git"
+  },
+  "author": "Juanmalp3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanmalp3/MusicAlgorithm/issues"
+  },
+  "homepage": "https://github.com/juanmalp3/MusicAlgorithm#readme"
+}
